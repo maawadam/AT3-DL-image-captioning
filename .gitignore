@@ -1,3 +1,6 @@
 data/Flicker8k_Dataset/
 data/Flicker8k_Dataset/Images/
 /,venv
+data/experiment_camilo_model1.pth
+data/experiment_camilo_model1_full.pth
+notebooks/best_model.pt
